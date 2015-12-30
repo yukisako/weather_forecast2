@@ -12,6 +12,7 @@
 		65BFAB831C32B33200531948 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 65BFAB811C32B33200531948 /* Main.storyboard */; };
 		65BFAB851C32B33200531948 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 65BFAB841C32B33200531948 /* Assets.xcassets */; };
 		65BFAB881C32B33200531948 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 65BFAB861C32B33200531948 /* LaunchScreen.storyboard */; };
+		65FB18701C33B7FF008673D1 /* background.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 65FB186F1C33B7FF008673D1 /* background.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		65BFAB841C32B33200531948 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		65BFAB871C32B33200531948 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		65BFAB891C32B33200531948 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		65FB186F1C33B7FF008673D1 /* background.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = background.jpg; path = ../../../../../Desktop/background.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				65BFAB7D1C32B33200531948 /* AppDelegate.swift */,
 				65BFAB7F1C32B33200531948 /* ViewController.swift */,
+				65FB186F1C33B7FF008673D1 /* background.jpg */,
 				65BFAB811C32B33200531948 /* Main.storyboard */,
 				65BFAB841C32B33200531948 /* Assets.xcassets */,
 				65BFAB861C32B33200531948 /* LaunchScreen.storyboard */,
@@ -124,6 +127,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				65BFAB881C32B33200531948 /* LaunchScreen.storyboard in Resources */,
+				65FB18701C33B7FF008673D1 /* background.jpg in Resources */,
 				65BFAB851C32B33200531948 /* Assets.xcassets in Resources */,
 				65BFAB831C32B33200531948 /* Main.storyboard in Resources */,
 			);
@@ -285,6 +289,7 @@
 				65BFAB8E1C32B33200531948 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
